@@ -6,12 +6,12 @@ The index.php file contains each step of my solution to the problem.
 
 In order to quickly demonstrate my working for each step I commented out the previous one and continued below.
 
-Step 1: write out proposed structure
-Step 2: make for loop and check runs from 1 to 100
-Step 3: added first modulo if statement
-Step 4: added remaining if/else checks
-Step 5: check with other values
-Step 6: returned to original values and checked comments
+*Step 1: write out proposed structure
+*Step 2: make for loop and check runs from 1 to 100
+*Step 3: added first modulo if statement
+*Step 4: added remaining if/else checks
+*Step 5: check with other values
+*Step 6: returned to original values and checked comments
 
 I also made a commit for each step.
 
