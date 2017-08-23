@@ -65,9 +65,34 @@
 
   // Step 4: added remaining if/else checks
 
+  // // declare variables
+  // $foo = "Making";
+  // $bar = "Sense";
+
+  // for ($i = 1; $i <= 100; $i++) {
+  //   // if the remainder of $i/3 is 0 and $i/5 is 0 i.e. if $i is a multiple of 3 and 5...
+  //   if ($i%3 == 0 && $i%5 == 0) {
+  //     echo $foo." ".$bar;
+  //   } elseif ($i%3 == 0) {
+  //     // if a multiple of 3...
+  //     echo $foo;
+  //   } elseif ($i%5 == 0) {
+  //     // if a multiple of 5...
+  //     echo $bar;
+  //   } else {
+  //     // if not a multiple of 3 and 5, or 3, or 5...
+  //     echo $i;
+  //   }
+  //   // linebreak in every instance
+  //   echo "<br>";
+  // }
+
+  
+  // Step 5: check with other values
+
   // declare variables
-  $foo = "Making";
-  $bar = "Sense";
+  $foo = "Hire";
+  $bar = "Tom";
 
   for ($i = 1; $i <= 100; $i++) {
     // if the remainder of $i/3 is 0 and $i/5 is 0 i.e. if $i is a multiple of 3 and 5...
